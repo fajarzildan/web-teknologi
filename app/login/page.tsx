@@ -24,7 +24,7 @@ export default function Page() {
           src="/logo/uia-logo.png"
           width={500}
           height={360}
-          className="hidden md:block"
+          className="h-12 w-auto md:h-36"
           alt="Banner UIA"
         />
       </div>
